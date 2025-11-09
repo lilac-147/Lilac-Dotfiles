@@ -15,3 +15,9 @@ alias ls="eza --icons --time-style +%Y-%m-%d\ %H:%M:%S"
 
 # 更新stow配置
 alias stow-update="stow --adopt -vt ~ *"
+
+# 使用nvim代替vim
+alias vim="nvim"
+
+# 用tldr代替man
+# alias man=tldr
